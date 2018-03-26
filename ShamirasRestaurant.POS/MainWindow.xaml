@@ -1,0 +1,19 @@
+﻿<Window x:Class="ShamirasRestaurant.POS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShamirasRestaurant.POS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="732.649">
+    <Grid>
+        <Button x:Name="btnUser" Content="User" HorizontalAlignment="Left" Margin="433,10,0,0" VerticalAlignment="Top" Width="75" Height="76" FontWeight="Bold" FontSize="16" Click="btnUser_Click"/>
+        <Button x:Name="btnCategory" Content="Category" HorizontalAlignment="Left" Margin="338,10,0,0" VerticalAlignment="Top" Width="75" Height="76" FontWeight="Bold" FontSize="16" Click="btnCategory_Click"/>
+        <Button x:Name="btnProducts" Content="Products" HorizontalAlignment="Left" Margin="244,10,0,0" VerticalAlignment="Top" Width="75" Height="76" FontWeight="Bold" FontSize="16" Click="btnProducts_Click"/>
+        <Button x:Name="btnDelivery" Content="Delivery" HorizontalAlignment="Left" Margin="142,10,0,0" VerticalAlignment="Top" Width="75" Height="76" Click="btnDelivery_Click"/>
+        <Button x:Name="btnOrder" Content="Order" HorizontalAlignment="Left" Margin="142,113,0,0" VerticalAlignment="Top" Width="75" Height="73" Click="btnOrder_Click"/>
+        <Button x:Name="btnSale" Content="Sale" HorizontalAlignment="Left" Margin="244,113,0,0" VerticalAlignment="Top" Width="75" Height="73" Click="btnSale_Click"/>
+        <Button x:Name="btnRecipe" Content="Recipe" HorizontalAlignment="Left" Margin="338,113,0,0" VerticalAlignment="Top" Width="76" Height="73" Click="btnRecipe_Click"/>
+
+    </Grid>
+</Window>

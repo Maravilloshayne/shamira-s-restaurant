@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShamirasRestaurant.POS", "ShamirasRestaurant.POS\ShamirasRestaurant.POS.csproj", "{AF6A9A58-5FBD-496A-83DC-3B155E3D7561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShamirasRestaurant.Domain", "ShamirasRestaurant.Domain\ShamirasRestaurant.Domain.csproj", "{2F8D1DA1-0BC6-4E06-A49A-94D73B633E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6A9A58-5FBD-496A-83DC-3B155E3D7561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6A9A58-5FBD-496A-83DC-3B155E3D7561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6A9A58-5FBD-496A-83DC-3B155E3D7561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6A9A58-5FBD-496A-83DC-3B155E3D7561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8D1DA1-0BC6-4E06-A49A-94D73B633E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8D1DA1-0BC6-4E06-A49A-94D73B633E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8D1DA1-0BC6-4E06-A49A-94D73B633E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8D1DA1-0BC6-4E06-A49A-94D73B633E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7345D6-0BD8-4525-BEF1-1409F1AC52DE}
+	EndGlobalSection
+EndGlobal

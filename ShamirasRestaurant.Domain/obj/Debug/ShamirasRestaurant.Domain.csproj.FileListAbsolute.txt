@@ -1,0 +1,11 @@
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\ShamirasRestaurant.Domain.dll.config
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\ShamirasRestaurant.Domain.dll
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\ShamirasRestaurant.Domain.pdb
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\EntityFramework.dll
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\EntityFramework.xml
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\obj\Debug\ShamirasRestaurant.Domain.csprojResolveAssemblyReference.cache
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\obj\Debug\ShamirasRestaurant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\obj\Debug\ShamirasRestaurant.Domain.dll
+C:\Users\COMLABPC1\source\repos\ShamirasRestaurant.POS\ShamirasRestaurant.Domain\obj\Debug\ShamirasRestaurant.Domain.pdb
